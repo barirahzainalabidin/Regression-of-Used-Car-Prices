@@ -2,6 +2,8 @@
 
 # Notebook Solution
 
+Link  - https://www.kaggle.com/code/barirahzainal/regression-of-used-car-prices-gradient-boosting
+
 # Deployment 
 
 
