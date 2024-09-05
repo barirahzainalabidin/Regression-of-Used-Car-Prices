@@ -4,6 +4,12 @@
 
 Link  - https://www.kaggle.com/code/barirahzainal/regression-of-used-car-prices-gradient-boosting
 
+
+# Metric RMSE 
+
+- 72942
+  
+
 # Deployment 
 
 
